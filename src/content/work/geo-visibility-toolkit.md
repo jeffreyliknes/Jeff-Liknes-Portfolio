@@ -7,7 +7,7 @@ summary: A front-end audit tool that scores a hotel domain on its visibility ins
 order: 5
 featured: false
 image: ../../assets/geo-visibility-toolkit.png
-imageAlt: Tidemark's entry screen, headlined "Check Your AI Visibility", with a single field for a website URL and a Generate Report button.
+imageAlt: Tidemark's entry screen, with the tidemark logo above the headline "Check Your AI Visibility", a single field for a website URL and a Generate Report button.
 bullets:
   - Built a front-end tool that takes a hotel domain and scores how it is represented to AI answer engines, then used it to set GEO strategy across the portfolio.
   - Internal pilot. Adoption beyond the pilot is not yet established, and there is no proven metric lift to report.
